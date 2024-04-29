@@ -8,7 +8,7 @@ import os
 import pygame, time
 pygame.init()
 
-API_KEY = "AIzaSyCj_t8vfIkwI3pq2ILf6FCbAPXpB6qddFU"
+API_KEY = "API_KEY"
 
 
 genai.configure(api_key=API_KEY)
